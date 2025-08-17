@@ -193,6 +193,8 @@ rebuild_firmware() {
         \
         luci-app-amlogic \
         \
+        php8 php8-cgi php8-mod-session php8-mod-gmp php8-mod-gettext php8-mod-iconv php8-mod-pcntl zoneinfo-asia zoneinfo-core unzip \
+        \
         kmod-usb-core kmod-usb2 usb-modeswitch libusb-1.0 kmod-usb-net-cdc-ether \
         \
         kmod-usb-net-rndis kmod-usb-net-cdc-ncm kmod-usb-net-huawei-cdc-ncm kmod-usb-net-cdc-eem kmod-usb-net-cdc-ether kmod-usb-net-cdc-subset kmod-nls-base kmod-usb-core kmod-usb-net kmod-usb-net-cdc-ether kmod-usb2 \
